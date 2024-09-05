@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @clouis01
+- 🏫 I am a senior in High School
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning how to become better at coding
-- 💞️ I’m looking to collaborate on social media
+- 🌱 I’m currently learning how to become better at coding 
+- Check out my new [app](https://orloapp.streamlit.app/)!
 - 📫 How to reach me chrislouis227@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am left handed
